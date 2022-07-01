@@ -1,0 +1,26 @@
+{
+  "name": "fictional-happiness",
+  "version": "1.0.0",
+  "description": "Module 10 Challenge",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrenner0211/fictional-happiness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrenner0211/fictional-happiness/issues"
+  },
+  "homepage": "https://github.com/nrenner0211/fictional-happiness#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.2"
+  }
+}
