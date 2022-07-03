@@ -2,17 +2,21 @@
 
 Module 10 Challenge
 
+## About
+
+Welcome to fictional-happiness Corporation's employee tracker! It will prompt you for information on employees, classify them by role, and generate a webpage with easy-to-access employee cards.
+
 ## Usage
 
 Run these commands in your terminal:
 
-<code>npm init</code>
+`npm init`
 
-<code>npm install jest</code>
+`npm install jest`
 
-<code>npm install inquirer@8.2.4</code>
+`npm install inquirer@8.2.4`
 
-<code>node index</code>
+`node index`
 
 When you run node index, you will be prompted and a webpage will be generated based on your answers.
 

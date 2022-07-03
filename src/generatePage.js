@@ -1,0 +1,3 @@
+function generatePage(data) {
+    return ``
+}
