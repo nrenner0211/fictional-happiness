@@ -21,6 +21,7 @@
   "homepage": "https://github.com/nrenner0211/fictional-happiness#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^28.1.2"
+    "jest": "^28.1.2",
+    "nodemon": "^2.0.19"
   }
 }
