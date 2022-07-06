@@ -1,6 +1,7 @@
 // packages needed
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generatePage = require('./src/page-template.js');
 const Employee = require('./lib/Employee.js');
 
 // welcome
@@ -69,5 +70,5 @@ init = function() {
 
 init();
 
-
+  
 

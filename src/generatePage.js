@@ -1,3 +1,0 @@
-function generatePage(data) {
-    return ``
-}
