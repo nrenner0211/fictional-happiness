@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'input',
         name: 'id',
-        message: "Please provide employee's ID/Badge number.",
+        message: "Please provide employee's ID number.",
         validate: idInput => {
             if (idInput) {
                 return true;
@@ -56,13 +56,13 @@ const questions = [
         name: 'role',
         message: "What is this employee's role?",
         choices: ['Engineer', 'Intern', 'Manager'],
-        validate: role => {
-            if (role) {
-                return true;
-            } else {
-                return false;
-            }
-        }
+        // validate: role => {
+        //     if (role) {
+        //         return true;
+        //     } else {
+        //         return false;
+        //     }
+        // }
     }
 ];
 
