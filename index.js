@@ -153,7 +153,7 @@ function addHtml(employee) {
             <h5 class="card-header">${name}<br /><br />Engineer</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${id}</li>
-                <li class="list-group-item">Email Address: ${email}</li>
+                <li class="list-group-item">Email Address: <a href="mailto: ${email}"></li>
                 <li class="list-group-item">GitHub: ${gitHub}</li>
             </ul>
             </div>
